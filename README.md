@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with any company for my first job.
 - 📫 How to reach me ... at github:- sumanshruti24 and at linkedin:- https://www.linkedin.com/in/shruti-suman24
 - 😄 Pronouns: ... Shruti Suman 
-- ⚡ Fun fact:...
+- ⚡ Fun fact:... Learning Journey:-"Learning a new programming language every year and it's an interesting field to be worked in.
 
 <!---
 sumanshruti24/sumanshruti24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
